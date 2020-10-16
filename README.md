@@ -1,4 +1,5 @@
 # Vision-Transformer👁️
+[![](https://img.shields.io/badge/Nakshatra-Singh-brightgreen.svg?colorB=ff0000)](https://nakshatrasinghh-io.vercel.app/) [![](https://img.shields.io/hexpm/l/plug)](https://github.com/nakshatrasinghh/Vision-Transformer/blob/main/LICENSE)
 
 <p align="center">
     <img src="vit.PNG" height="350px">
