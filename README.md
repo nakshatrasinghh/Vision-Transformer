@@ -15,7 +15,7 @@ Abstract: While the Transformer architecture has become the de-facto standard fo
 
 Vision Transformer implemented using Tensorflow 2.0 and Einops-0.3.0.
 
-Example Notebook can found in [`cifar_example.ipynb`](https://github.com/nakshatrasinghh/Vision-Transformer/blob/main/cifar10_example.ipynb)
+Example Notebook can found in [`cifar10_example.ipynb`](https://github.com/nakshatrasinghh/Vision-Transformer/blob/main/cifar10_example.ipynb)
 
 ## Run Notebook in Colab 👇
 
