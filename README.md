@@ -1,4 +1,4 @@
-# Vision-Transformer 👁️
+# Vision-Transformer👁️
 
 <p align="center">
     <img src="vit.PNG" height="350px">
