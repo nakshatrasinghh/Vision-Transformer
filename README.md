@@ -11,8 +11,9 @@ where the authors show that Transformers applied directly to image patches and p
 
 ## Check out my Medium Blog on Vision Transformer 👇
 
-<img src="https://miro.medium.com/max/968/1*uLuWzCXfq2rt1t_TkuLB8A.png" alt="https://medium.com/@nakshatradsml/vision-transformers-bye-bye-convolutions-e929d022e4ab" width="145" height="50">
-
+<a href="https://medium.com/@nakshatradsml/vision-transformers-bye-bye-convolutions-e929d022e4ab">
+  <img src="https://miro.medium.com/max/968/1*uLuWzCXfq2rt1t_TkuLB8A.png" alt="An image" width="145" height="50">
+</a>
 
 ## [Abstract](https://openreview.net/forum?id=YicbFdNTTy)
 Abstract: While the Transformer architecture has become the de-facto standard for natural language processing tasks, its applications to computer vision remain limited. In vision, attention is either applied in conjunction with convolutional networks, or used to replace certain components of convolutional networks while keeping their overall structure in place. We show that this reliance on CNNs is not necessary and a pure transformer can perform very well on image classification tasks when applied directly to sequences of image patches. When pre-trained on large amounts of data and transferred to multiple recognition benchmarks (ImageNet, CIFAR-100, VTAB, etc), Vision Transformer attains excellent results compared to state-of-the-art convolutional networks while requiring substantially fewer computational resources to train.
